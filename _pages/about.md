@@ -8,27 +8,36 @@ Before joining IIT Kharagpur, I worked as a firmware engineer in Horner Automati
 Papers
 ======
 
-||> A Computationally Efficient Tensor Regression Network based Modeling Attack on XOR Arbiter PUF: 
+|| A Computationally Efficient Tensor Regression Network based Modeling Attack on XOR Arbiter PUF:
+
     Pranesh Santikellur, Lakshya, Shashi Ranjan Prakash and Rajat Subhra Chakraborty
+    
     Accepted for AsianHOST 2019.
     
-||> Design of a Chaotic Oscillator based Model Building Attack Resistant Arbiter PUF:
-    enkata Sreekanth Balijabudda, Dhruv Thapar, Pranesh Santikellur, Rajat Subhra Chakraborty and Indrajit Chakrabarti
+|| Design of a Chaotic Oscillator based Model Building Attack Resistant Arbiter PUF:
+
+    Venkata Sreekanth Balijabudda, Dhruv Thapar, Pranesh Santikellur, Rajat Subhra Chakraborty and Indrajit Chakrabarti
+    
     Accepted for AsianHOST 2019.
 
-||> United We Stand: A Threshold Signature Scheme for Identifying Outliers in PLCs
+|| United We Stand: A Threshold Signature Scheme for Identifying Outliers in PLCs
+
     Urbi Chatterjee, Pranesh Santikellur, Rajat Sadhukhan, Vidya Govindan, Depdeep Mukhopadhyay and Rajat Subhra Chakraborthy
     Proceedings of the 56th Annual Design Automation Conference 2019
  
- ||> A Hardware Trojan Attack on FPGA-Based Cryptographic Key Generation: Impact and Detection
+ || A Hardware Trojan Attack on FPGA-Based Cryptographic Key Generation: Impact and Detection
+ 
      Vidya Govindan, Rajat Subhra Chakraborty, Pranesh Santikellur, Aditya Chaudhary
+     
      Journal of Hardware and Systems Security, 2018
  
    
  
 Student collaborated work
 ======  
- ||>  Optimized Multi-Layer Hierarchical Network Intrusion Detection System with Genetic Algorithms
+ ||  Optimized Multi-Layer Hierarchical Network Intrusion Detection System with Genetic Algorithms
+ 
       Pranesh Santikellur, Tahreem Haque, Malek Al-Zewairi and Rajat Subhra Chakraborty
+      
       ICTCS 2019
 
