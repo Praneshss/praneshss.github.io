@@ -10,7 +10,7 @@ main:
   #  url: /teaching/    
     
   - title: "My journey into Embedded Wonderland"
-    url: /sitemap.md
+    url: /journey.html
         
   - title: "Blog Posts"
     url: /year-archive/
