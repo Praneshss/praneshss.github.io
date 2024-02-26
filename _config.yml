@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "MyPic.jpg"
   name             : "Pranesh Santikellur"
-  pronouns         : "He" # example: "she/her"  
-  bio              : "Sr. Embedded Security Researcher at TII, PhD , CSE IIT Kharagpur"
+  pronouns         : #"He" # example: "she/her"  
+  bio              : "Sr. Embedded Security Researcher at TII, PhD, CSE IIT Kharagpur"
   location         : "Abu Dhabi, UAE"
-  employer         : "Technology Innovation Institute, Abu Dhabi, UAE"
+  employer         : "Technology Innovation Institute"
   uri              : # URL
   email            : "pranesh.santikellur@gmailcom" 
 

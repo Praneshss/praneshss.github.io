@@ -8,15 +8,34 @@ redirect_from:
 ---
 
 
+About Me
+======
+- I'm currently working as a Sr. Embedded Security Researcher at the Technology Innovation Institute in Abu Dhabi, United Arab Emirates.
 
--I'm currently working as a Sr. Embedded Security Researcher at the Technology Innovation Institute in Abu Dhabi, United Arab Emirates.
+- I earned my PhD from the Computer Science and Engineering Department at the Indian Institute of Technology (IIT) Kharagpur, India, under the guidance of Prof. Rajat Subhra Chakraborty. My PhD was funded by Intel® Corporation, USA. I was also an Intel® AI Academy Student Ambassador for IIT Kharagpur.
 
--I earned my PhD from the Computer Science and Engineering Department at the Indian Institute of Technology (IIT) Kharagpur, India, under the guidance of Prof. Rajat Subhra Chakraborty. My PhD was funded by Intel® Corporation, USA. I was also an Intel® AI Academy Student Ambassador for IIT Kharagpur.
+- My primary areas of research interest are: Hardware Security, Embedded Systems Security and PLC Automation.
 
--Prior to my PhD, I had worked as a firmware engineer for nearly six years in Bangalore, India.
+- Books: Available at this [link](https://link.springer.com/book/10.1007/978-981-19-4017-0). 
+
+- Prior to my PhD, I had worked as a firmware engineer for nearly six years in Bangalore, India.
 
 ---
+My Work Experience
+======
+* Technology Innoation Institute (2022 - Now)
+* Horner Engineering India (2012-2016)
+* Processor Systems (2010-2012)
 
+---
+My Teaching Experience (as a TA)
+======
+* Computer Organisation and Architecture Laboratory (CS39001, CS31007)
+* Programming and Data Structures Laboratory (CS11001)
+* Machine learning (CS60050)
+---
+
+---
 My journey into Embedded Wonderland
 ======
 As an engineering grad, who wouldn't be thrilled to land a job at Procsys - one of India's first embedded systems companies that just celebrated 50 years in the game [link](https://www.newindianexpress.com/states/karnataka/2023/Dec/21/one-of-indias-first-computer-companies-this-bengaluru-firm-turns-50-2643504.html). 
