@@ -20,9 +20,20 @@ About Me
 
 - Prior to my PhD, I had worked as a firmware engineer for nearly six years in Bangalore, India.
 
----
+
+Invited Talks
+======
+
+* Presented as a Keynote Speaker for ISEA-Virtual Presentation Conclave conducted by IIT Guwahati on the topic "Modeling Attacks on Physically Unclonable Functions" [link](https://iseapmu.in/virtualconclave/ivpc2022)
+* Presented a webinar for "IEEE CAD for Assurance" on our tool "Deep Feedforward Neural Network Based PUF Attack Tool”. [link] (https://ieee-ceda.org/presentation/webinar/cad-assurance-neos-toolset-and-deep-learning-based-model-building-attacks)
+* Presented a webinar at IIEST Shibpur, India on the topic "Recent Advances in Machine Learning based Modeling Attacks on PUF”.
+* Presented a tutorial at IEEE TENCON 2019 on "Physically Unclonable Functions:Design, Applications, Threats”.
+
+
+
 My Work Experience
 ======
+
 * Technology Innoation Institute (2022 - Now)
 * Horner Engineering India (2012-2016)
 * Processor Systems (2010-2012)
@@ -30,9 +41,11 @@ My Work Experience
 ---
 My Teaching Experience (as a TA)
 ======
+
 * Computer Organisation and Architecture Laboratory (CS39001, CS31007)
 * Programming and Data Structures Laboratory (CS11001)
 * Machine learning (CS60050)
+
 ---
 
 ---
