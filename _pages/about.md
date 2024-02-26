@@ -1,19 +1,19 @@
 ---
 permalink: /
-title: "Hello / Namaste "
+title: "Welcome to my Academic Webpage "
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome to my Academic webPage.
 
-I'm currently working as a Sr. Embedded Security Researcher at the Technology Innovation Institute in Abu Dhabi, United Arab Emirates.
 
-I earned my PhD from the Computer Science and Engineering Department at the Indian Institute of Technology (IIT) Kharagpur, India, under the guidance of Professor Rajat Subhra Chakraborty. My PhD was funded by Intel® Corporation, USA. I was also an Intel® AI Academy Student Ambassador for IIT Kharagpur.
+-I'm currently working as a Sr. Embedded Security Researcher at the Technology Innovation Institute in Abu Dhabi, United Arab Emirates.
 
-Prior to my PhD, I had worked as a firmware engineer for nearly six years in Bangalore, India.
+-I earned my PhD from the Computer Science and Engineering Department at the Indian Institute of Technology (IIT) Kharagpur, India, under the guidance of Prof. Rajat Subhra Chakraborty. My PhD was funded by Intel® Corporation, USA. I was also an Intel® AI Academy Student Ambassador for IIT Kharagpur.
+
+-Prior to my PhD, I had worked as a firmware engineer for nearly six years in Bangalore, India.
 
 ---
 

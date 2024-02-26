@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "WebPage of Pranesh Santikellur"
+title                    : "Pranesh Santikellur"
 title_separator          : "-"
 name                     : &name "Pranesh Santikellur"
 description              : &description "personal description"
@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "MyPic.jpg"
   name             : "Pranesh Santikellur"
-  pronouns         : # example: "she/her"  
-  bio              : "Sr. Embedded Security Researcher at TII"
+  pronouns         : "He" # example: "she/her"  
+  bio              : "Sr. Embedded Security Researcher at TII, PhD , CSE IIT Kharagpur"
   location         : "Abu Dhabi, UAE"
-  employer         : "Technology Innovation Institute"
+  employer         : "Technology Innovation Institute, Abu Dhabi, UAE"
   uri              : # URL
   email            : "pranesh.santikellur@gmailcom" 
 
@@ -64,7 +64,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
+  twitter          : #"UniofOxford"  # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
