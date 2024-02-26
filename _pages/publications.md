@@ -99,13 +99,3 @@ author_profile: true
     and Trust Symposium (AsianHOST), 2019, pp. 1-6. [Link](https://ieeexplore.ieee.org/document/9233262)
 
   
-
-{% include base_path %}
-
-  
-
-{% for post in site.publications reversed %}
-
-{% include archive-single.html %}
-
-{% endfor %}
