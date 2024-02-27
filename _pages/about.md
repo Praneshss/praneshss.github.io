@@ -35,16 +35,16 @@ Invited Talks
 My Work Experience
 ======
 
-* Technology Innoation Institute (2022 - Now)
-* Horner Engineering India (2012-2016)
-* Processor Systems (2010-2012)
+* Technology Innovation Institute, Abu Dhabi, UAE (2022 - Now)
+* Horner Engineering India, Bengaluru (2012-2016)
+* Processor Systems, Bengaluru (2010-2012)
 
 
 My Teaching Experience (as a TA)
 ======
 
-* Computer Organisation and Architecture Laboratory (CS39001, CS31007)
-* Programming and Data Structures Laboratory (CS11001)
-* Machine learning (CS60050)
+* Computer Organisation and Architecture Laboratory (CS39001, CS31007), IIT Kharagpur
+* Programming and Data Structures Laboratory (CS11001), IIT Kharagpur
+* Machine learning (CS60050), IIT Kharagpur
 
 
