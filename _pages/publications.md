@@ -58,8 +58,8 @@ author_profile: true
     
 
  1. **P. Santikellur** and R. S. Chakraborty, "A Computationally Efficient Tensor Regression Network based Modeling Attack on XOR
-        Arbiter PUFand its Variants" in IEEE Transactions on Computer-Aided
-        Design of Inte-grated Circuits and Systems., vol. 40, no. 6, pp.
+        Arbiter PUF and its Variants" in IEEE Transactions on Computer-Aided
+        Design of Integrated Circuits and Systems., vol. 40, no. 6, pp.
         1197-1206, June 2021. [Link](https://ieeexplore.ieee.org/document/9233262)
 
     
