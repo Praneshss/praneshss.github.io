@@ -13,28 +13,28 @@ I truly believe that our accomplishments are largely influenced by those who ins
 
 * [Here is a picture with my supervisor, Prof. Rajat Subhra Chakraborty, after my PhD defense. Apologies for the low image quality. ] 
 
-<img src="../images/AfterDefenseMoment.jpeg" width="200">
+<center><img src="../images/AfterDefenseMoment.jpeg" width="200"></center>
 
 * [A picture with the team from SEAL (Secured Embedded Architecture Lab) after winning second prize in CSAW Embedded Security Competetion 2017 in IIT Kanpur ] 
 
-<img src="../images/withCSAWteam.jpeg" width="200">
+<center><img src="../images/withCSAWteam.jpeg" width="200"></center>
 
 * [A picture with the Prof. Debdeep Mukhopadhyay Sir at NYU, Abu dhabi ]
 
-<img src="../images/WithDMSir_NYU.jpeg" width="200">
+<center><img src="../images/WithDMSir_NYU.jpeg" width="200"></center>
 
 * [A picture with the Prof. Adi Shamir at TII, Abu dhabi ] 
 
 
-<img src="../images/WithAdiShamir.png" width="200">
+<center><img src="../images/WithAdiShamir.png" width="200"></center>
 
 * [A picture with the Prof. Andrew NG  at NeurIPS 2023, New Orleans, USA ]
 
 
- <img src="../images/WithAndrewNG.jpeg" width="200">
+ <center><img src="../images/WithAndrewNG.jpeg" width="200"></center>
 
 * [A picture with the Jeroen Devaulx  at TII, Abu dhabi ]
 
 
-<img src="../images/WithJeroenDevalaux.jpeg" width="200">
+<center><img src="../images/WithJeroenDevalaux.jpeg" width="200"></center>
   
