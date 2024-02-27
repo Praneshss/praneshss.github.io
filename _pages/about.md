@@ -17,7 +17,7 @@ About Me
 
 - My primary areas of research interest are: Hardware Security, Embedded Systems Security and PLC Automation.
 
-- Books: Available at this [link](https://link.springer.com/book/10.1007/978-981-19-4017-0). <img src="../images/book.jpg" width="80">
+- Books: Available at this [link](https://link.springer.com/book/10.1007/978-981-19-4017-0). <img src="../images/book.jpg" width="80"> Best Paper Nominatation at GLSVLSI 2021 [Link](https://dl.acm.org/doi/10.1145/3453688.3461484)<img src="../images/bestpapernomination.png" width="40"> 
 - Prior to my PhD, I had worked as a firmware engineer for nearly six years in Bangalore, India.
 
 
