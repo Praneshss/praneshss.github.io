@@ -13,7 +13,7 @@ About Me
 
 - I'm currently working as a Sr. Embedded Security Researcher at the Technology Innovation Institute in Abu Dhabi, United Arab Emirates.
 
-- I earned my PhD from the Computer Science and Engineering Department at the Indian Institute of Technology (IIT) Kharagpur, India, under the guidance of Prof. Rajat Subhra Chakraborty. My PhD was funded by Intel® Corporation, USA. I was also an Intel® AI Academy Student Ambassador for IIT Kharagpur.
+- I earned my PhD from the Computer Science and Engineering Department at the Indian Institute of Technology (IIT) Kharagpur, India, under the guidance of Prof. Rajat Subhra Chakraborty. My doctoral thesis focused on the design and analysis of machine learning-based model building attacks on physically unclonable functions.  My PhD was funded by Intel® Corporation, USA. Additionally, I was also an Intel® AI Academy Student Ambassador for IIT Kharagpur.
 
 - My primary areas of research interest are: Hardware Security, Embedded Systems Security and PLC Automation.
 
