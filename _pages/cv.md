@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-## Download CV in PDF format [here](../files/PraneshSantikellurCV_TII-8.pdf). For an updated copy, please contact me by email.
+## For an updated CV, please contact me by email.
 
 
 
 
 ## Profile
 
-I am currently working as a Senior Embedded Security Researcher at the Technology Innovation Institute in Abu Dhabi, UAE. Before this, I completed my Doctor of Philosophy (Ph.D.) in the Department of Computer Science at the Indian Institute of Technology, Kharagpur, under the supervision of Prof. Rajat Subhra Chakraborty. My doctoral thesis focused on the design and analysis of machine learning-based model building attacks on physically unclonable functions. Prior to starting my Ph.D. at IIT Kharagpur, I worked as an embedded Linux developer for nearly six years in Bengaluru, India. At TII (Technology and Innovation Institute), my main work involved around the secure ML inference using TEE based solutions and exploring  eBPF based security observability and runtime enforcemnet mechanisms.
+I am currently working as an Assistant Professor in International Institute of Information Technology, Bangalore. Prior to this,  I completed my Doctor of Philosophy (Ph.D.) in the Department of Computer Science at the Indian Institute of Technology, Kharagpur, under the supervision of Prof. Rajat Subhra Chakraborty and worked as a  Senior Embedded Security Researcher at the Technology Innovation Institute in Abu Dhabi, UAE for nearly 4 years. My doctoral thesis focused on the design and analysis of machine learning-based model building attacks on physically unclonable functions. Prior to starting my Ph.D. at IIT Kharagpur, I worked as an embedded Linux developer for nearly six years in Bengaluru, India. At TII (Technology and Innovation Institute), my main work involved around the secure ML inference using TEE based solutions and exploring  eBPF based security observability and runtime enforcemnet mechanisms.
 
 ## Education
 
