@@ -1,0 +1,17 @@
+.logo-wrapper {
+	margin: 0 2rem 1rem 0;
+	width: 13rem;
+	height: auto;
+	overflow: hidden;
+}
+.column {
+	float: left;
+}
+.description {
+	display: table;
+}
+@media screen and (max-width: 600px) {
+	.logo-wrapper {
+		width: auto;
+	}
+}
