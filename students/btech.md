@@ -23,7 +23,6 @@ title: BTech Students
         <td>—</td>
         <td>—</td>
         <td>—</td>
-        <td>—</td>
       </tr>
     </tbody>
   </table>
