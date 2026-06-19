@@ -24,7 +24,7 @@ home: true
 
         <p>Prior to joining IIIT-B, I worked as a Sr. Embedded Security Researcher for nearly four years at the <a href="https://www.tii.ae/" target="_blank">Technology Innovation Institute</a>, Abu Dhabi, UAE. Before my PhD, I worked as a firmware engineer for nearly six years in Bangalore, India. My research interests are in <strong>hardware security</strong>, <strong>embedded system security</strong>, and <strong>ML systems</strong>.</p>
 
-        <p>Email me at <a href="mailto:pranesh.santikellur@iiitb.ac.in" target="_blank">pranesh [dot] santikellur [at] gmail [dot] com</a>.</p>
+        <p>Email me at <a href="mailto:pranesh.santikellur@iiitb.ac.in" target="_blank">pranesh [dot] santikellur [at] iiitb [dot] ac [dot] in</a>.</p>
       </div>
     </div>
   </div>
