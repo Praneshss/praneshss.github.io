@@ -14,7 +14,6 @@ title: BTech Students
         <th>Name</th>
         <th>Thesis Title</th>
         <th>Project Title</th>
-        <th>Expected Graduation</th>
         <th>GitHub</th>
       </tr>
     </thead>
