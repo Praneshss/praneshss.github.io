@@ -18,11 +18,11 @@ home: true
 
     <div class="description-wrapper">
       <div class="description">
-        <p>I am a Sr. Embedded Security Researcher at the <a href="https://www.tii.ae/" target="_blank">Technology Innovation Institute (TII)</a>, Abu Dhabi, United Arab Emirates.</p>
+        <p>Pranesh Santikellur holds a Doctorate in Computer Science and Engineering from the <a href="https://www.iitkgp.ac.in/" target="_blank">Indian Institute of Technology (IIT) Kharagpur</a>, India. His PhD thesis focused on the design and analysis of modeling attacks on physical unclonable functions.</p>
 
-        <h4><b>I earned my PhD from the <a href="https://www.iitkgp.ac.in/" target="_blank">Computer Science and Engineering Department, IIT Kharagpur</a>, under the guidance of <a href="https://cse.iitkgp.ac.in/~rsc/" target="_blank">Prof. Rajat Subhra Chakraborty</a>. My doctoral thesis focused on the design and analysis of machine learning-based model building attacks on Physically Unclonable Functions (PUFs), funded by Intel® Corporation, USA.</b></h4>
+        <h4><b>Currently, he is an <a href="https://www.iiitb.ac.in/faculty/pranesh-santikellur" target="_blank">Assistant Professor</a> at the <a href="https://www.iiitb.ac.in/" target="_blank">International Institute of Information Technology Bangalore (IIIT-B)</a>.</b></h4>
 
-        <p>My primary areas of research interest are <strong>Hardware Security</strong>, <strong>Embedded Systems Security</strong>, and <strong>PLC Automation</strong>. I was also an <strong>Intel® AI Academy Student Ambassador</strong> for IIT Kharagpur.</p>
+        <p>Following his PhD, he worked as a Sr. Embedded Security Researcher for nearly four years at the <a href="https://www.tii.ae/" target="_blank">Secure Systems Research Center, Technology Innovation Institute</a>, Abu Dhabi, UAE. Prior to his PhD, he worked as a firmware engineer for nearly six years in Bangalore, India. His research interests are in <strong>hardware security</strong>, <strong>embedded system security</strong>, and <strong>ML systems</strong>.</p>
 
         <p>Email me at <a href="mailto:pranesh.santikellur@gmail.com" target="_blank">pranesh [dot] santikellur [at] gmail [dot] com</a>.</p>
       </div>
