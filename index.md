@@ -18,11 +18,11 @@ home: true
 
     <div class="description-wrapper">
       <div class="description">
-        <p>Pranesh Santikellur holds a Doctorate in Computer Science and Engineering from the <a href="https://www.iitkgp.ac.in/" target="_blank">Indian Institute of Technology (IIT) Kharagpur</a>, India. His PhD thesis focused on the design and analysis of modeling attacks on physical unclonable functions.</p>
+        <p>I am an <a href="https://www.iiitb.ac.in/faculty/pranesh-santikellur" target="_blank">Assistant Professor</a> at the <a href="https://www.iiitb.ac.in/" target="_blank">International Institute of Information Technology Bangalore (IIIT-B)</a>.</p>
 
-        <h4><b>Currently, he is an <a href="https://www.iiitb.ac.in/faculty/pranesh-santikellur" target="_blank">Assistant Professor</a> at the <a href="https://www.iiitb.ac.in/" target="_blank">International Institute of Information Technology Bangalore (IIIT-B)</a>.</b></h4>
+        <h4><b>I hold a Doctorate in Computer Science and Engineering from the <a href="https://www.iitkgp.ac.in/" target="_blank">Indian Institute of Technology (IIT) Kharagpur</a>, India. My PhD thesis focused on the design and analysis of modeling attacks on physical unclonable functions.</b></h4>
 
-        <p>Following his PhD, he worked as a Sr. Embedded Security Researcher for nearly four years at the <a href="https://www.tii.ae/" target="_blank">Secure Systems Research Center, Technology Innovation Institute</a>, Abu Dhabi, UAE. Prior to his PhD, he worked as a firmware engineer for nearly six years in Bangalore, India. His research interests are in <strong>hardware security</strong>, <strong>embedded system security</strong>, and <strong>ML systems</strong>.</p>
+        <p>Prior to joining IIIT-B, I worked as a Sr. Embedded Security Researcher for nearly four years at the <a href="https://www.tii.ae/" target="_blank">Secure Systems Research Center, Technology Innovation Institute</a>, Abu Dhabi, UAE. Before my PhD, I worked as a firmware engineer for nearly six years in Bangalore, India. My research interests are in <strong>hardware security</strong>, <strong>embedded system security</strong>, and <strong>ML systems</strong>.</p>
 
         <p>Email me at <a href="mailto:pranesh.santikellur@gmail.com" target="_blank">pranesh [dot] santikellur [at] gmail [dot] com</a>.</p>
       </div>
