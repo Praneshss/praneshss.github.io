@@ -1,6 +1,13 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-minimal
+title: Pranesh Santikellur
+tagline: "Sr. Embedded Security Researcher | IIT Kharagpur PhD"
+email: pranesh.santikellur@gmail.com
+description: "Sr. Embedded Security Researcher at Technology Innovation Institute, Abu Dhabi. PhD, CSE IIT Kharagpur. Research interests: Hardware Security, Embedded Systems Security, PLC Automation."
+baseurl: ""
+url: "https://praneshss.github.io"
+author: Pranesh Santikellur
+
+remote_theme: pages-themes/minimal
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-seo-tag
