@@ -3,6 +3,8 @@
 
 @import "{{ site.theme }}";
 
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Source+Sans+3:wght@300;400;600&display=swap');
+
 $hover-font: #D52941;
 $hover-background: #FCD581;
 $grey-background: #FFFCF9;
@@ -11,24 +13,11 @@ $font-color: #26547C;
 $link-color: #06D6A0;
 
 $light-grey: #e8e8e8;
-$log-chip-background: #deeaf5;
 $medium-grey: #a6a6a6;
 $dark-grey: #333;
 
-@font-face {
-	font-family: 'Oswald-Regular';
-	src: url('/assets/fonts/Oswald-Regular.ttf') format('truetype');
-}
-
-@font-face {
-	font-family: 'Oswald-Light';
-	src: url('/assets/fonts/Oswald-Light.ttf') format('truetype');
-}
-
-@font-face {
-	font-family: 'Barlow-Regular';
-	src: url('/assets/fonts/Barlow-Regular.ttf') format('truetype');
-}
+$heading-font: 'Playfair Display', Georgia, serif;
+$body-font: 'Source Sans 3', sans-serif;
 
 body {
 	background: $grey-background !important;
@@ -42,14 +31,9 @@ body {
 	.homepage {
 		.introduction-wrapper {
 			display: block !important;
-			.photo-wrapper {
-				width: 80%;
-			}
+			.photo-wrapper { width: 80%; }
 		}
-	}
-
-	.homepage .description-wrapper {
-		width: 80% !important;
+		.description-wrapper { width: 80% !important; }
 	}
   }
 }
@@ -59,14 +43,8 @@ body {
 	margin: 0 1rem 0 1rem;
 	padding: 2rem;
 
-	.menu .menu-item {
-		float: left;
-		padding: 0;
-	}
-
-	.homepage .photo-wrapper {
-		width: 100%;
-	}
+	.menu .menu-item { float: left; padding: 0; }
+	.homepage .photo-wrapper { width: 100%; }
   }
 }
 
@@ -86,17 +64,8 @@ body {
 	margin: 0 auto;
 }
 
-.recent-section {
-	h2 {
-		text-align: center;
-		margin-bottom: 1rem;
-	}
-}
-
 @media screen and (max-width: 800px) {
-	.content-wrapper {
-		max-width: 100%;
-	}
+	.content-wrapper { max-width: 100%; }
 }
 
 body {
@@ -107,19 +76,20 @@ body {
 		}
 	}
 
-	.name {
-		float: left;
-	}
+	.name { float: left; }
 
 	.menu-item {
-		font-family: 'Oswald-Light';
+		font-family: $heading-font;
+		font-weight: 400;
 		float: right;
 		padding: 0.25rem 0.5rem 0 0.5rem;
+		letter-spacing: 0.15rem;
 	}
 
 	h1, h2 {
-		font-family: 'Oswald-Regular';
-		letter-spacing: 0.20rem;
+		font-family: $heading-font;
+		font-weight: 700;
+		letter-spacing: 0.15rem;
 		text-transform: uppercase;
 		color: $title-font-color;
 	}
@@ -128,25 +98,29 @@ body {
 	h2 { font-size: 1.2rem; }
 
 	h3 {
+		font-family: $heading-font;
 		font-size: 1rem;
+		font-weight: 600;
 		display: inline;
 		color: $title-font-color;
 	}
 
 	h4 {
-		font-family: 'Barlow-Regular';
+		font-family: $body-font;
 		font-size: 1.1rem;
+		font-weight: 600;
 		color: $hover-font;
 	}
 
 	p {
-		font-family: 'Barlow-Regular';
+		font-family: $body-font;
 		font-size: 1rem;
+		font-weight: 400;
 		color: $font-color;
 	}
 
 	li {
-		font-family: 'Barlow-Regular';
+		font-family: $body-font;
 		font-size: 1rem;
 		color: $font-color;
 	}
@@ -161,6 +135,20 @@ body {
 		}
 	}
 
+	.ss-icon {
+		color: $font-color;
+		border: solid 1px $font-color;
+		font-size: 0.9rem;
+		text-align: center;
+		padding: 0.7rem;
+		margin: 0.3rem;
+		&:hover {
+			color: $hover-font;
+			border-color: $hover-font;
+			background: none;
+		}
+	}
+
 	.homepage {
 		.introduction-wrapper {
 			display: flex;
@@ -169,16 +157,19 @@ body {
 
 		.photo-wrapper {
 			display: grid;
-			width: 40%;
+			width: 35%;
 			margin: 0 2rem 0 0;
 
 			.photo {
-				float: left;
-				margin: 0 2rem 2rem 0;
+				width: 100%;
+				max-height: 380px;
+				object-fit: cover;
+				object-position: top;
+				margin: 0 0 1rem 0;
 			}
 
 			.social-media {
-				margin: auto;
+				margin: 0.5rem auto;
 				.fa { width: 1.2rem; }
 			}
 		}
