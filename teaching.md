@@ -5,8 +5,7 @@ title: Teaching
 
 <div class="teaching-page">
 
-  <p>I teach courses at <a href="https://www.iiitb.ac.in/" target="_blank">IIIT Bangalore</a> with a focus on building strong foundational understanding alongside hands-on project experience. 
-    Student projects and their GitHub repositories are listed on each course page.</p>
+  <p>In my courses, I emphasize both strong conceptual understanding and hands-on project experience. Student projects and their GitHub repositories are listed on each course page.</p>
 
   <h2>2025–26</h2>
   <ul>
