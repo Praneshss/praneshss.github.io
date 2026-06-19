@@ -1,123 +1,51 @@
 ---
 layout: default
+title: Pranesh Santikellur
+home: true
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<div class="homepage">
+  <div class="introduction-wrapper">
+    <div class="photo-wrapper">
+      <img class="photo" src="/assets/img/MyPic.jpg" alt="Pranesh Santikellur">
+      <div class="social-media">
+        <a title="Google Scholar" href="https://scholar.google.com/citations?user=rKaq8lcAAAAJ&hl=en" target="_blank" class="ss-icon fa fa-graduation-cap"></a>
+        <a title="LinkedIn" href="https://www.linkedin.com/in/praneshss" target="_blank" class="ss-icon fa fa-linkedin"></a>
+        <a title="GitHub" href="https://github.com/Praneshss" target="_blank" class="ss-icon fa fa-github"></a>
+        <a title="ORCID" href="https://orcid.org/0000-0001-6970-1778" target="_blank" class="ss-icon fa fa-id-card"></a>
+      </div>
+    </div>
 
-[Link to another page](./another-page.html).
+    <div class="description-wrapper">
+      <div class="description">
+        <p>Hi, I am Pranesh. I am an embedded systems engineer turned security researcher, interested in the intersection of hardware, machine learning, and cybersecurity.</p>
 
-There should be whitespace between paragraphs.
+        <h4><b>Currently, I am a <a href="https://www.tii.ae/" target="_blank">Sr. Embedded Security Researcher</a> at the <a href="https://www.tii.ae/" target="_blank">Technology Innovation Institute</a>, Abu Dhabi, UAE.</b></h4>
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+        <p>My primary research interests are <strong>Hardware Security</strong>, <strong>Embedded Systems Security</strong>, and <strong>PLC Automation</strong>. I earned my PhD from IIT Kharagpur, funded by Intel® Corporation, USA.</p>
 
-# Header 1
+        <p>Email me at <a href="mailto:pranesh.santikellur@gmail.com" target="_blank">pranesh [dot] santikellur [at] gmail [dot] com</a>.</p>
+      </div>
+    </div>
+  </div>
+</div>
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+<br><br>
 
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+<div class="recent-section">
+  <h2>Recent</h2>
+  <ul>
+    <li>
+      <p>Presented a Keynote at ISEA Virtual Presentation Conclave, IIT Guwahati — <em>"Modeling Attacks on Physically Unclonable Functions"</em>. <a href="https://iseapmu.in/virtualconclave/ivpc2022" target="_blank">Link</a></p>
+    </li>
+    <li>
+      <p>Webinar at IEEE CAD for Assurance — <em>"Deep Feedforward Neural Network Based PUF Attack Tool"</em>. <a href="https://ieee-ceda.org/presentation/webinar/cad-assurance-neos-toolset-and-deep-learning-based-model-building-attacks" target="_blank">Link</a></p>
+    </li>
+    <li>
+      <p>Book published via Springer. <a href="https://link.springer.com/book/10.1007/978-981-19-4017-0" target="_blank">Link</a></p>
+    </li>
+    <li>
+      <p>Best Paper Nomination at GLSVLSI 2021. <a href="https://dl.acm.org/doi/10.1145/3453688.3461484" target="_blank">Link</a></p>
+    </li>
+  </ul>
+</div>
